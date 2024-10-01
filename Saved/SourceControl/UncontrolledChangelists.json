@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"D:/ANLS-UE5.4.4/Content/Designers/Float-text.uasset",
+				"D:/ANLS-UE5.4.4/Content/Designers/Stones/Materials/S6TONE/S6TONE-STATIC.uasset",
+				"D:/ANLS-UE5.4.4/Content/Designers/Stones/Materials/S6TONE/S6TONE-NORMAL.uasset",
+				"D:/ANLS-UE5.4.4/Content/Designers/Stones/Materials/S6TONE/S6TONE-LOW.uasset",
+				"D:/ANLS-UE5.4.4/Content/Designers/Stones/Materials/S6TONE/S6TONE-INSTANCE.uasset"
+			]
+		}
+	]
+}
